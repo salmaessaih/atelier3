@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1729685522 source:c:\users\hp\desktop\new project c++\atelier3\main.cpp
+	"voiture.h"
+
+1729686633 c:\users\hp\desktop\new project c++\atelier3\voiture.h
+	<iostream>
+	<string>
+
